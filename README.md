@@ -1,6 +1,7 @@
 # Sachy
 
 Konzolová (textová) šachová hra napísaná v jazyku C pre dvoch hráčov, hraná v jednom termináli na striedačku. Projekt je nastavený ako CMake projekt (vygenerovaný Visual Studiom).
+Hrá ktorá bola vytvorená na základe vybraného projektu k predmetu PC1T 
 
 ## Funkcie
 
