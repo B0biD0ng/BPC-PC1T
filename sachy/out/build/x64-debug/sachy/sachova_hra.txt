@@ -1,0 +1,13 @@
+rnbqkbnr
+pppppppp
+........
+........
+........
+........
+PPPPPPPP
+R...K..R
+0
+bobi
+1
+simon
+2

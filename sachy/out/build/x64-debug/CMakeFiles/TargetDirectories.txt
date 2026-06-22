@@ -1,0 +1,5 @@
+C:/Users/rober/source/repos/sachy/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/rober/source/repos/sachy/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rober/source/repos/sachy/out/build/x64-debug/sachy/CMakeFiles/sachy.dir
+C:/Users/rober/source/repos/sachy/out/build/x64-debug/sachy/CMakeFiles/edit_cache.dir
+C:/Users/rober/source/repos/sachy/out/build/x64-debug/sachy/CMakeFiles/rebuild_cache.dir
